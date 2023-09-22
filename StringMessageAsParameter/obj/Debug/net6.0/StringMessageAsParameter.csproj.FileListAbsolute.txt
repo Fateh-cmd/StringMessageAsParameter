@@ -1,0 +1,14 @@
+/Users/fateh/Projects/StringMessageAsParameter/StringMessageAsParameter/bin/Debug/net6.0/StringMessageAsParameter
+/Users/fateh/Projects/StringMessageAsParameter/StringMessageAsParameter/bin/Debug/net6.0/StringMessageAsParameter.deps.json
+/Users/fateh/Projects/StringMessageAsParameter/StringMessageAsParameter/bin/Debug/net6.0/StringMessageAsParameter.runtimeconfig.json
+/Users/fateh/Projects/StringMessageAsParameter/StringMessageAsParameter/bin/Debug/net6.0/StringMessageAsParameter.dll
+/Users/fateh/Projects/StringMessageAsParameter/StringMessageAsParameter/bin/Debug/net6.0/StringMessageAsParameter.pdb
+/Users/fateh/Projects/StringMessageAsParameter/StringMessageAsParameter/obj/Debug/net6.0/StringMessageAsParameter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fateh/Projects/StringMessageAsParameter/StringMessageAsParameter/obj/Debug/net6.0/StringMessageAsParameter.AssemblyInfoInputs.cache
+/Users/fateh/Projects/StringMessageAsParameter/StringMessageAsParameter/obj/Debug/net6.0/StringMessageAsParameter.AssemblyInfo.cs
+/Users/fateh/Projects/StringMessageAsParameter/StringMessageAsParameter/obj/Debug/net6.0/StringMessageAsParameter.csproj.CoreCompileInputs.cache
+/Users/fateh/Projects/StringMessageAsParameter/StringMessageAsParameter/obj/Debug/net6.0/StringMessageAsParameter.dll
+/Users/fateh/Projects/StringMessageAsParameter/StringMessageAsParameter/obj/Debug/net6.0/refint/StringMessageAsParameter.dll
+/Users/fateh/Projects/StringMessageAsParameter/StringMessageAsParameter/obj/Debug/net6.0/StringMessageAsParameter.pdb
+/Users/fateh/Projects/StringMessageAsParameter/StringMessageAsParameter/obj/Debug/net6.0/StringMessageAsParameter.genruntimeconfig.cache
+/Users/fateh/Projects/StringMessageAsParameter/StringMessageAsParameter/obj/Debug/net6.0/ref/StringMessageAsParameter.dll
